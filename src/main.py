@@ -8,7 +8,7 @@ load_dotenv()
 print("App Name:",os.getenv("APP_NAME"))
 print("API Key:",os.getenv("API_KEY"))
 
-print("\nCalculator")
+print("Calculator Module")
 print("Add:",add(10,5))
 print("Subtract:",subtract(10,5))
 print("Multiply:",multiply(10,5))
