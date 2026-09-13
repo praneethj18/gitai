@@ -30,3 +30,6 @@ ai-engineering-day6/
 - GitHub
 - Requests
 - Python-dotenv
+## Text Analyzer API
+
+The project includes a text analyzer API for word count, character count, sentence count, and unique word count.
